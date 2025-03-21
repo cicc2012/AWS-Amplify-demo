@@ -1,5 +1,7 @@
 # AWS Demo with Amplify for Text Extraction
 
+# DO NOT FOLLOW THIS DEMO: OUTDATED
+
 This guide demonstrates how to build a complete AWS Amplify application that:
 1. Provides a web interface for users to upload images
 2. Triggers a Lambda function to process the image using AWS Textract
